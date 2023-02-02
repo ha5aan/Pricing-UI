@@ -1,0 +1,16 @@
+.priceBackground{
+    background-color:rgb(213, 192, 255)
+}
+.addingBorderRadius{
+  
+}
+.IconColour{
+   color:  purple;
+   display: inline-block;
+   font-size: large;
+}
+.addingBoxShadow{
+    box-shadow: 1px 1px 200px lightgray;
+    border-radius: 12px;
+    background-color: white;
+}
